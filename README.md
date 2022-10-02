@@ -1,2 +1,2 @@
 # Discogs-Data-Scrapper
-Tool which extracts data from discogs.
+Tool which extracts data from discogs.com.
